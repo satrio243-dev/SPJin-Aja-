@@ -1,11 +1,11 @@
 {
   "version": "v1.0.2",
-  "notes": "Fix Bug & Tampilan",
-  "pub_date": "2027-05-25T00:00:00Z",
+  "notes": "Tambah { Pendistribusi Barang, SP3BS, FORMAT BPK, Upah Tukang, Nota Konsumsi, Rekap Pajak }",
+  "pub_date": "2027-06-17T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDc4MTRFMjMyMzQ0MjEwQUEKUldTcUVFSTBNdUlVZUFvdnUvYjUvTzVadlpLbWFBemM1YXlFMXI3SjJHMTN1TE5OL1JDcTV1OUUK",
-      "url": "https://www.mediafire.com/file/kx1uic8vnm2lxm9/SPJin_Aja%2521_1.0.2_x64-setup.exe/file"
+      "url": "https://www.mediafire.com/file/n7iyt0lu06c5n93/SPJin_Aja%2521_1.0.3_x64-setup.exe/file"
     }
   }
 }
