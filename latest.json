@@ -1,6 +1,6 @@
 {
   "version": "v1.0.4",
-  "notes": "Tambah { Setting Kepala Sekolah Manual, SPTJM, Notulen Rapat, Metode Cetak Dokumen (Cepat/lambat), dll }",
+  "notes": "Tambah { Setting Kepala Sekolah Manual, SPTJM, Notulen Rapat, Metode Cetak Dokumen (Cepat/lambat), Atur Kertas & Margin dll }",
   "pub_date": "2027-06-19T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
