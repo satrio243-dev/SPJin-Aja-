@@ -1,11 +1,11 @@
 {
-  "version": "v1.0.4",
-  "notes": "Tambah { Setting Kepala Sekolah Manual, SPTJM, Notulen Rapat, Metode Cetak Dokumen (Cepat/lambat), Atur Kertas & Margin dll }",
-  "pub_date": "2027-06-19T00:00:00Z",
+  "version": "v1.0.5",
+  "notes": "Fix Bug & Tambah { Rekap Belanja SIPLah }",
+  "pub_date": "2027-06-27T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDc4MTRFMjMyMzQ0MjEwQUEKUldTcUVFSTBNdUlVZUFvdnUvYjUvTzVadlpLbWFBemM1YXlFMXI3SjJHMTN1TE5OL1JDcTV1OUUK",
-      "url": "https://www.mediafire.com/file/2cb8djh4tbyhi4k/SPJin_Aja%2521_1.0.4_x64-setup.exe/file"
+      "url": ""
     }
   }
 }
