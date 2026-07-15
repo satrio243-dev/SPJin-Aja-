@@ -1,11 +1,11 @@
 {
-  "version": "v1.0.6",
-  "notes": "Fix Bug",
-  "pub_date": "2027-07-15T00:00:00Z",
+  "version": "v1.0.7",
+  "notes": "🔧 SPJin Aja! v1.0.7\n\nPerubahan pada versi ini:\n• Perbaikan beberapa bug.\n• Laporan BOS Online.\n• Penutupan Kas.\n• SP3BS.\n• Format BPK.\n• KIB B & E\n\nTerima kasih telah menggunakan SPJin Aja! ❤️",
+  "pub_date": "2027-07-17T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDc4MTRFMjMyMzQ0MjEwQUEKUldTcUVFSTBNdUlVZUFvdnUvYjUvTzVadlpLbWFBemM1YXlFMXI3SjJHMTN1TE5OL1JDcTV1OUUK",
-      "url": "https://www.mediafire.com/file/82qt5a7e1ond4np/SPJin_Aja%2521_1.0.6_x64-setup.exe/file"
+      "url": ""
     }
   }
 }
